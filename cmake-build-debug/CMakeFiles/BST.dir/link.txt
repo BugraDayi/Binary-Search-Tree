@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/BST.dir/main.cpp.o CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o CMakeFiles/BST.dir/sources/AbBST.cpp.o CMakeFiles/BST.dir/sources/PbBST.cpp.o CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o  -o BST 
