@@ -104,8 +104,8 @@ int main() {
         pb->insert(&(pb->root), i);
     }
 
-    //performanceAnalysis();
-    //heightAnalysis();
-    std::cout << pb->medianOfBST(pb->root);
+    performanceAnalysis();
+    heightAnalysis();
+    //std::cout << pb->medianOfBST(pb->root);
     return 0;
 }
