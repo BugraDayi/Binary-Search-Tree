@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/bugragocer/CLionProjects/BST
+CMAKE_SOURCE_DIR = /Users/bugragocer/Downloads/x
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/bugragocer/CLionProjects/BST/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/bugragocer/Downloads/x/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/BST.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/BST.dir/flags.make
 
 CMakeFiles/BST.dir/main.cpp.o: CMakeFiles/BST.dir/flags.make
 CMakeFiles/BST.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BST.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/main.cpp.o -c /Users/bugragocer/CLionProjects/BST/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/BST.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/main.cpp.o -c /Users/bugragocer/Downloads/x/main.cpp
 
 CMakeFiles/BST.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BST.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/CLionProjects/BST/main.cpp > CMakeFiles/BST.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/Downloads/x/main.cpp > CMakeFiles/BST.dir/main.cpp.i
 
 CMakeFiles/BST.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BST.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/CLionProjects/BST/main.cpp -o CMakeFiles/BST.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/Downloads/x/main.cpp -o CMakeFiles/BST.dir/main.cpp.s
 
 CMakeFiles/BST.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/BST.dir/main.cpp.o.provides.build: CMakeFiles/BST.dir/main.cpp.o
 
 CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o: CMakeFiles/BST.dir/flags.make
 CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o: ../sources/AbBinaryNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o -c /Users/bugragocer/CLionProjects/BST/sources/AbBinaryNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o -c /Users/bugragocer/Downloads/x/sources/AbBinaryNode.cpp
 
 CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/CLionProjects/BST/sources/AbBinaryNode.cpp > CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/Downloads/x/sources/AbBinaryNode.cpp > CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.i
 
 CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/CLionProjects/BST/sources/AbBinaryNode.cpp -o CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/Downloads/x/sources/AbBinaryNode.cpp -o CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.s
 
 CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o.provides.build: CMakeFiles/BST.dir
 
 CMakeFiles/BST.dir/sources/AbBST.cpp.o: CMakeFiles/BST.dir/flags.make
 CMakeFiles/BST.dir/sources/AbBST.cpp.o: ../sources/AbBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BST.dir/sources/AbBST.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/AbBST.cpp.o -c /Users/bugragocer/CLionProjects/BST/sources/AbBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BST.dir/sources/AbBST.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/AbBST.cpp.o -c /Users/bugragocer/Downloads/x/sources/AbBST.cpp
 
 CMakeFiles/BST.dir/sources/AbBST.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BST.dir/sources/AbBST.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/CLionProjects/BST/sources/AbBST.cpp > CMakeFiles/BST.dir/sources/AbBST.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/Downloads/x/sources/AbBST.cpp > CMakeFiles/BST.dir/sources/AbBST.cpp.i
 
 CMakeFiles/BST.dir/sources/AbBST.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BST.dir/sources/AbBST.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/CLionProjects/BST/sources/AbBST.cpp -o CMakeFiles/BST.dir/sources/AbBST.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/Downloads/x/sources/AbBST.cpp -o CMakeFiles/BST.dir/sources/AbBST.cpp.s
 
 CMakeFiles/BST.dir/sources/AbBST.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/BST.dir/sources/AbBST.cpp.o.provides.build: CMakeFiles/BST.dir/source
 
 CMakeFiles/BST.dir/sources/PbBST.cpp.o: CMakeFiles/BST.dir/flags.make
 CMakeFiles/BST.dir/sources/PbBST.cpp.o: ../sources/PbBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/BST.dir/sources/PbBST.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/PbBST.cpp.o -c /Users/bugragocer/CLionProjects/BST/sources/PbBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/BST.dir/sources/PbBST.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/PbBST.cpp.o -c /Users/bugragocer/Downloads/x/sources/PbBST.cpp
 
 CMakeFiles/BST.dir/sources/PbBST.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BST.dir/sources/PbBST.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/CLionProjects/BST/sources/PbBST.cpp > CMakeFiles/BST.dir/sources/PbBST.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/Downloads/x/sources/PbBST.cpp > CMakeFiles/BST.dir/sources/PbBST.cpp.i
 
 CMakeFiles/BST.dir/sources/PbBST.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BST.dir/sources/PbBST.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/CLionProjects/BST/sources/PbBST.cpp -o CMakeFiles/BST.dir/sources/PbBST.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/Downloads/x/sources/PbBST.cpp -o CMakeFiles/BST.dir/sources/PbBST.cpp.s
 
 CMakeFiles/BST.dir/sources/PbBST.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/BST.dir/sources/PbBST.cpp.o.provides.build: CMakeFiles/BST.dir/source
 
 CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o: CMakeFiles/BST.dir/flags.make
 CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o: ../sources/PbBinaryNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o -c /Users/bugragocer/CLionProjects/BST/sources/PbBinaryNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o -c /Users/bugragocer/Downloads/x/sources/PbBinaryNode.cpp
 
 CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/CLionProjects/BST/sources/PbBinaryNode.cpp > CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/bugragocer/Downloads/x/sources/PbBinaryNode.cpp > CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.i
 
 CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/CLionProjects/BST/sources/PbBinaryNode.cpp -o CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/bugragocer/Downloads/x/sources/PbBinaryNode.cpp -o CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.s
 
 CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o.requires:
 
@@ -195,7 +195,7 @@ BST: CMakeFiles/BST.dir/sources/PbBST.cpp.o
 BST: CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o
 BST: CMakeFiles/BST.dir/build.make
 BST: CMakeFiles/BST.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable BST"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable BST"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BST.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -216,6 +216,6 @@ CMakeFiles/BST.dir/clean:
 .PHONY : CMakeFiles/BST.dir/clean
 
 CMakeFiles/BST.dir/depend:
-	cd /Users/bugragocer/CLionProjects/BST/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/bugragocer/CLionProjects/BST /Users/bugragocer/CLionProjects/BST /Users/bugragocer/CLionProjects/BST/cmake-build-debug /Users/bugragocer/CLionProjects/BST/cmake-build-debug /Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles/BST.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/bugragocer/Downloads/x/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/bugragocer/Downloads/x /Users/bugragocer/Downloads/x /Users/bugragocer/Downloads/x/cmake-build-debug /Users/bugragocer/Downloads/x/cmake-build-debug /Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles/BST.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/BST.dir/depend
 

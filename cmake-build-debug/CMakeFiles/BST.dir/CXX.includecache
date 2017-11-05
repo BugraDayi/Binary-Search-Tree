@@ -6,45 +6,47 @@
 
 #IncludeRegexTransform: 
 
-/Users/bugragocer/CLionProjects/BST/headers/AbBST.h
+/Users/bugragocer/Downloads/x/headers/AbBST.h
 ../headers/AbBinaryNode.h
-/Users/bugragocer/CLionProjects/BST/headers/AbBinaryNode.h
+/Users/bugragocer/Downloads/x/headers/AbBinaryNode.h
 
-/Users/bugragocer/CLionProjects/BST/headers/AbBinaryNode.h
+/Users/bugragocer/Downloads/x/headers/AbBinaryNode.h
 
-/Users/bugragocer/CLionProjects/BST/headers/PbBST.h
+/Users/bugragocer/Downloads/x/headers/PbBST.h
 ../headers/PbBinaryNode.h
-/Users/bugragocer/CLionProjects/BST/headers/PbBinaryNode.h
+/Users/bugragocer/Downloads/x/headers/PbBinaryNode.h
 
-/Users/bugragocer/CLionProjects/BST/headers/PbBinaryNode.h
+/Users/bugragocer/Downloads/x/headers/PbBinaryNode.h
 cstdlib
 -
 
-/Users/bugragocer/CLionProjects/BST/main.cpp
+/Users/bugragocer/Downloads/x/main.cpp
 iostream
 -
 headers/AbBST.h
-/Users/bugragocer/CLionProjects/BST/headers/AbBST.h
+/Users/bugragocer/Downloads/x/headers/AbBST.h
 headers/PbBST.h
-/Users/bugragocer/CLionProjects/BST/headers/PbBST.h
+/Users/bugragocer/Downloads/x/headers/PbBST.h
+ctime
+-
+unistd.h
+-
 
-/Users/bugragocer/CLionProjects/BST/sources/AbBST.cpp
+/Users/bugragocer/Downloads/x/sources/AbBST.cpp
 ../headers/AbBST.h
-/Users/bugragocer/CLionProjects/BST/headers/AbBST.h
+/Users/bugragocer/Downloads/x/headers/AbBST.h
 iostream
 -
-malloc/malloc.h
--
 
-/Users/bugragocer/CLionProjects/BST/sources/AbBinaryNode.cpp
+/Users/bugragocer/Downloads/x/sources/AbBinaryNode.cpp
 ../headers/AbBinaryNode.h
-/Users/bugragocer/CLionProjects/BST/headers/AbBinaryNode.h
+/Users/bugragocer/Downloads/x/headers/AbBinaryNode.h
 
-/Users/bugragocer/CLionProjects/BST/sources/PbBST.cpp
+/Users/bugragocer/Downloads/x/sources/PbBST.cpp
 ../headers/PbBST.h
-/Users/bugragocer/CLionProjects/BST/headers/PbBST.h
+/Users/bugragocer/Downloads/x/headers/PbBST.h
 
-/Users/bugragocer/CLionProjects/BST/sources/PbBinaryNode.cpp
+/Users/bugragocer/Downloads/x/sources/PbBinaryNode.cpp
 ../headers/PbBinaryNode.h
-/Users/bugragocer/CLionProjects/BST/headers/PbBinaryNode.h
+/Users/bugragocer/Downloads/x/headers/PbBinaryNode.h
 

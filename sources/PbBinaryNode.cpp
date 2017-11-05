@@ -15,3 +15,8 @@ PbBinaryNode::PbBinaryNode(int val) {
     this->left = nullptr;
     this->right = nullptr;
 }
+
+PbBinaryNode::~PbBinaryNode() {
+    delete (right);
+    delete (left);
+}

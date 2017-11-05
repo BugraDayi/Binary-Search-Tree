@@ -16,6 +16,7 @@ class PbBinaryNode
 
     PbBinaryNode(int val,PbBinaryNode *left,PbBinaryNode *right);
     PbBinaryNode(int val);
+    ~PbBinaryNode();
 };
 
 #endif //BST_PBBINARYNODE_H

@@ -1,7 +1,7 @@
 # BST
 C++ program that implements for binary search tree
 
-## TODO
+## TODO (DONE)
 
 - ~~`insert()` for pointer base~~
 - ~~`insert()` for array base~~
@@ -12,6 +12,6 @@ C++ program that implements for binary search tree
 - ~~`isBST()` for pointer base~~
 - ~~`isBST()` for array base~~
 
-- `medianOfBST()` impl.
-- `performanceAnalysis()` impl.
-- `heightAnalysis()` impl.
+- ~~`medianOfBST()` impl.~~
+- ~~`performanceAnalysis()` impl.~~
+- ~~`heightAnalysis()` impl.~~

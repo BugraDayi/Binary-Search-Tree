@@ -11,6 +11,7 @@ class AbBST {
 public:
 
     int size = 0;
+    int length = 0;
     AbBinaryNode *array;
 
     void insert(int val);
@@ -19,11 +20,11 @@ public:
 
     int getHeight();
 
-    int isBST(int );
-
     int getHeight(int root);
 
     AbBST(int size) ;
+
+    ~AbBST();
 
     void print();
 };

@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/bugragocer/CLionProjects/BST/main.cpp" "/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles/BST.dir/main.cpp.o"
-  "/Users/bugragocer/CLionProjects/BST/sources/AbBST.cpp" "/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles/BST.dir/sources/AbBST.cpp.o"
-  "/Users/bugragocer/CLionProjects/BST/sources/AbBinaryNode.cpp" "/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o"
-  "/Users/bugragocer/CLionProjects/BST/sources/PbBST.cpp" "/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles/BST.dir/sources/PbBST.cpp.o"
-  "/Users/bugragocer/CLionProjects/BST/sources/PbBinaryNode.cpp" "/Users/bugragocer/CLionProjects/BST/cmake-build-debug/CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o"
+  "/Users/bugragocer/Downloads/x/main.cpp" "/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles/BST.dir/main.cpp.o"
+  "/Users/bugragocer/Downloads/x/sources/AbBST.cpp" "/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles/BST.dir/sources/AbBST.cpp.o"
+  "/Users/bugragocer/Downloads/x/sources/AbBinaryNode.cpp" "/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles/BST.dir/sources/AbBinaryNode.cpp.o"
+  "/Users/bugragocer/Downloads/x/sources/PbBST.cpp" "/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles/BST.dir/sources/PbBST.cpp.o"
+  "/Users/bugragocer/Downloads/x/sources/PbBinaryNode.cpp" "/Users/bugragocer/Downloads/x/cmake-build-debug/CMakeFiles/BST.dir/sources/PbBinaryNode.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

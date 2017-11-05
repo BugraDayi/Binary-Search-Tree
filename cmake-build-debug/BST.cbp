@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/bugragocer/CLionProjects/BST/cmake-build-debug"/>
+				<Option working_dir="/Users/bugragocer/Downloads/x/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/bugragocer/CLionProjects/BST/cmake-build-debug"/>
+				<Option working_dir="/Users/bugragocer/Downloads/x/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/bugragocer/CLionProjects/BST/cmake-build-debug"/>
+				<Option working_dir="/Users/bugragocer/Downloads/x/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="BST">
-				<Option output="/Users/bugragocer/CLionProjects/BST/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bugragocer/CLionProjects/BST/cmake-build-debug"/>
+				<Option output="/Users/bugragocer/Downloads/x/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bugragocer/Downloads/x/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="BST/fast">
-				<Option output="/Users/bugragocer/CLionProjects/BST/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bugragocer/CLionProjects/BST/cmake-build-debug"/>
+				<Option output="/Users/bugragocer/Downloads/x/cmake-build-debug/BST" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bugragocer/Downloads/x/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,41 +75,41 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/CLionProjects/BST/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 BST/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bugragocer/Downloads/x/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/headers/AbBST.h">
+		<Unit filename="/Users/bugragocer/Downloads/x/headers/AbBST.h">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/headers/AbBinaryNode.h">
+		<Unit filename="/Users/bugragocer/Downloads/x/headers/AbBinaryNode.h">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/headers/PbBST.h">
+		<Unit filename="/Users/bugragocer/Downloads/x/headers/PbBST.h">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/headers/PbBinaryNode.h">
+		<Unit filename="/Users/bugragocer/Downloads/x/headers/PbBinaryNode.h">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/main.cpp">
+		<Unit filename="/Users/bugragocer/Downloads/x/main.cpp">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/sources/AbBST.cpp">
+		<Unit filename="/Users/bugragocer/Downloads/x/sources/AbBST.cpp">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/sources/AbBinaryNode.cpp">
+		<Unit filename="/Users/bugragocer/Downloads/x/sources/AbBinaryNode.cpp">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/sources/PbBST.cpp">
+		<Unit filename="/Users/bugragocer/Downloads/x/sources/PbBST.cpp">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/sources/PbBinaryNode.cpp">
+		<Unit filename="/Users/bugragocer/Downloads/x/sources/PbBinaryNode.cpp">
 			<Option target="BST"/>
 		</Unit>
-		<Unit filename="/Users/bugragocer/CLionProjects/BST/CMakeLists.txt">
+		<Unit filename="/Users/bugragocer/Downloads/x/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
